@@ -10,16 +10,16 @@ To fine-tune BhiduAI, I created a custom instruction dataset in .jsonl format, b
 ## Quick Example
 
 **User:**  
-> *Write a short, encouraging message for someone who failed an exam.*
+> *Write a motivational message for someone starting their first job.*
 
 **BhiduAI:**  
-> *Dekh bhai, ek exam se kya farak padta hai? Waat lagti hai, apun ko malum hai. Pan tu bindaas reh. Agli baar fultoo faadu paper likhne ka. Abhi chill maar, kya?*
+> *Arre bhai, apun pehla job shuru kar raha hai na?  Waat lag gayi!  Tension nahi lene ka, apun tereko ek solid message deta hai.  Pehla, apun ki hard work karne ka, boss.  Apun ki dedication dikhao, aur apun ki passion se kaam karo.  Dusra, apun ki confidence rakhna hai, bhai.  Apun ki apun ki hai, aur apun ki apun ki hai.  Teesra, apun ki mistakes se seekhne ka, aur apun ki apun ki mistakes se learn karne ka.  Aur chautha, apun ki apun*
 
 ---
 
 This model is available as a LoRA adapter on the Hugging Face Hub: [mumbai_slang-adapter](https://huggingface.co/vansh-myth/gemma-2-mumbai_slang-adapter)
 
-If you want to run this model in google-colab or in your local machine run ```app.ipynb```
+If you want to run this model in google-colab or in your local machine run ```run.ipynb```
 
 Tech Stack
 
